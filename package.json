@@ -1,0 +1,9 @@
+{
+  "name": "Ridesharing-App",
+  "version": "1.0.0",
+  "description": "Sharing Rides",
+  "main": "index.js",
+  "repository": "https://github.com/Jace254/Ridesharing-App.git",
+  "author": "sAndrin3 <sandrinemalanga2001@gmail.com>",
+  "license": "MIT"
+}
